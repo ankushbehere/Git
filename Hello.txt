@@ -1,1 +1,2 @@
 Testing git
+In the branch b1
